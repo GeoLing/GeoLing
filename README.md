@@ -1,9 +1,9 @@
 ### Catherine Lee Brockway, PhD
 
 I'm currently working on:
-1. Identifying key data science vocabulary to understand data science textbooks.
-2. Measuring the linguistic accessibility of the UN 2030 Agenda for Sustainable Development.
-3. Providing subject matter expertise for an app that makes language data from the American Community Survey more easily accessible.
+1. Developing and teaching a series of UNITAR short courses on GIS for Sustainability and Resilience.
+2. Developing the LanguageFinder web app which makes language data accessible for social sector decision-making around language access.
+3. Consulting on various new GIS programs at higher ed institutions across the Pacific.
 
 <!--
 **GeoLing/GeoLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
